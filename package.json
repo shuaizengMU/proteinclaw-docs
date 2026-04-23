@@ -1,0 +1,19 @@
+{
+  "name": "proteinclaw-docs",
+  "version": "1.0.0",
+  "description": "ProteinClaw documentation",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev .",
+    "docs:build": "vitepress build .",
+    "docs:preview": "vitepress preview ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuaizengMU/proteinclaw-docs.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
