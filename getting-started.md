@@ -4,7 +4,7 @@ ProteinClaw is a conversational agent that queries protein databases using a ReA
 
 ## Download
 
-Download the macOS app from the [latest release](https://github.com/shuaizengMU/ProteinClaw/releases/latest/download/ProteinClaw.dmg).
+Download ProteinClaw from the [Releases page](https://github.com/shuaizengMU/ProteinClaw/releases) and pick the binary for your platform (macOS, Linux, Windows).
 
 On first launch, macOS may warn about an unidentified developer. Open **System Settings → Privacy & Security**, scroll to the bottom, and click **Open Anyway**.
 
